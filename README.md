@@ -10,3 +10,5 @@
   # Item Zabbix
   * cpu
   * ram / memory
+  * sessions 
+  * user onlien
